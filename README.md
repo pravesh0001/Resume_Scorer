@@ -11,11 +11,11 @@ This project aims to automate the process of scoring resumes and providing perso
 - **Streamlit Deployment**: Deployed as an easy-to-use web app via Streamlit for real-time interaction.
 
 ## Technologies Used
-- **Python**: Primary programming language for processing and automation.
-- **Streamlit**: Web framework for building the interactive frontend.
-- **PyPDF2** & **python-docx**: For parsing PDF and DOCX resume files.
-- **Natural Language Processing (NLP)**: For keyword matching and resume scoring.
-- **SMTP**: For email integration and sending feedback.
+- <span style="color:#1f77b4;">**Python**</span>: Primary programming language for processing and automation.
+- <span style="color:#ff7f0e;">**Streamlit**</span>: Web framework for building the interactive frontend.
+- <span style="color:#2ca02c;">**PyPDF2** & **python-docx**</span>: For parsing PDF and DOCX resume files.
+- <span style="color:#d62728;">**Natural Language Processing (NLP)**</span>: For keyword matching and resume scoring.
+- <span style="color:#9467bd;">**SMTP**</span>: For email integration and sending feedback.
 
 ## Installation
 
@@ -49,16 +49,11 @@ This project aims to automate the process of scoring resumes and providing perso
 
 1. Upload a resume (in PDF or DOCX format).
 2. Provide the job description (JD) text to match with.
-3. Click on "Score Resume" to get a score based on the content and experience.
+3. Click on **"Score Resume"** to get a score based on the content and experience.
 4. The system will generate a score and send personalized feedback to the candidate via email.
 
-## Project Structure
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```plaintext
-automated-cv-scoring-feedback/
-│
-├── app.py              # Streamlit app for frontend
-├── resume_parser.py    # Resume parsing and scoring logic
-├── email_sender.py     # Email integration for feedback
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
+## Contact
+For any questions, feel free to open an issue on this repository or reach out to me directly at [your-email@example.com].
