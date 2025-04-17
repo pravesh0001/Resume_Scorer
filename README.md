@@ -56,4 +56,4 @@ This project aims to automate the process of scoring resumes and providing perso
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions, feel free to open an issue on this repository or reach out to me directly at [your-email@example.com].
+For any questions, feel free to open an issue on this repository or reach out to me directly at sharmapravesh175@gmail.com.
